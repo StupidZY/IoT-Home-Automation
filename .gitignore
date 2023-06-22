@@ -1,0 +1,37 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Log files
+*.log
+
+# Database files
+*.db
+
+# IDE or editor specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Configuration files
+config.ini
+secrets.json
+
+# Generated documentation
+docs/
+
+# Any other files or directories specific to your project
